@@ -1,0 +1,6 @@
+name: deploy_codelab
+description: A sample deployment
+dependencies:
+  browser: any
+  http_server: any
+  path: any
